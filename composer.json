@@ -1,0 +1,30 @@
+{
+    "name": "abelhalo/titles",
+    "description": "Title generator for Laravel 5.1+",
+    "keywords": [
+        "laravel",
+        "title"
+    ],
+    "homepage": "https://github.com/zxz054321/titles",
+    "authors": [
+        {
+            "name": "Abel Halo",
+            "email": "zxz054321@163.com",
+            "homepage": "https://github.com/zxz054321"
+        }
+    ],
+    "license": "Apache License Version 2.0",
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": "5.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "orchestra/testbench": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Titles\\": "src/"
+        }
+    }
+}
