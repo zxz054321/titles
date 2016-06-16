@@ -1,6 +1,6 @@
 {
     "name": "abelhalo/titles",
-    "description": "Title generator for Laravel 5.1+",
+    "description": "An elegant title generator for Laravel 5.1+",
     "keywords": [
         "laravel",
         "title"
@@ -13,7 +13,7 @@
             "homepage": "https://github.com/zxz054321"
         }
     ],
-    "license": "Apache License Version 2.0",
+    "license": "Apache-2.0",
     "require": {
         "php": ">=5.5.0",
         "illuminate/support": "5.*"
