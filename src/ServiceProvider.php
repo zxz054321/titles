@@ -2,6 +2,7 @@
 
 namespace AbelHalo\Titles;
 
+use AbelHalo\Titles\Repository\Manager;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
 class ServiceProvider extends BaseServiceProvider
