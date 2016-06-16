@@ -1,6 +1,6 @@
 <?php
 
-use Titles\Title;
+use AbelHalo\Titles\Repository\Title;
 
 class TitleTest extends TestCase
 {

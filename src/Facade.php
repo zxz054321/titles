@@ -1,6 +1,6 @@
 <?php
 
-namespace Titles;
+namespace AbelHalo\Titles;
 
 use Illuminate\Support\Facades\Facade as BaseFacade;
 

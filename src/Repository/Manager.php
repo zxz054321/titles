@@ -1,6 +1,6 @@
 <?php
 
-namespace Titles;
+namespace AbelHalo\Titles\Repository;
 
 use Closure;
 

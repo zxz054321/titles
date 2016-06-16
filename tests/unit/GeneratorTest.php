@@ -1,7 +1,7 @@
 <?php
 
-use Titles\Generator;
-use Titles\Title;
+use AbelHalo\Titles\Repository\Generator;
+use AbelHalo\Titles\Repository\Title;
 
 class GeneratorTest extends TestCase
 {

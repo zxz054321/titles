@@ -1,7 +1,7 @@
 <?php
 
-use Titles\Manager;
-use Titles\Title;
+use AbelHalo\Titles\Repository\Manager;
+use AbelHalo\Titles\Repository\Title;
 
 class ManagerTest extends TestCase
 {
